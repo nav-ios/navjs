@@ -44,8 +44,8 @@ export const info = {
             text: 'based in 🇮🇳🇨🇦'
         },
         {
-            emoji: "💼",
-            text: "Systems Engineer at Google"
+            emoji: "🐈",
+            text: "Dad to 22 stray cats"
         },
         {
             emoji: "📧",
@@ -82,10 +82,10 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: `Hello! I'm Navdeep, a dedicated full-stack web developer and native iOS app developer with over 8 years of experience with a strong passion for JavaScript libraries. My expertise spans across front-end and back-end development, enabling me to build seamless and efficient applications. I love fiddling around with my 24 Core dual x99 home lab setup in my free time`,
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
+            proficientWith: ['javascript', 'swift', 'react', 'git', 'github', 'bootstrap', 'tailwind', 'nodejs', 'seo', 'hypervisors', 'deployment', 'hosting', 'homelab'],
             exposedTo: ['nodejs', 'python', 'adobe illustrator']
         }
     ,
