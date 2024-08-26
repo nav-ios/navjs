@@ -60,7 +60,7 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com/nav.rana",
+            link: "https://facebook.com/navdeep.rana",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
@@ -82,7 +82,7 @@ export const info = {
         {
             link: "https://www.youtube.com/@NavJS-zo9hy",
             icon: "fa fa-youtube",
-            label: 'twitter'
+            label: 'youtube'
         }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
