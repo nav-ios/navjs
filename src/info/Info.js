@@ -118,20 +118,20 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "TrueNAS VPN Setup using Docker",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            live: "https://www.youtube.com/watch?v=-Ae6Mk6u3WA", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://www.youtube.com/watch?v=-Ae6Mk6u3WA", // this should be a link to the **repository** of the project, where the code is hosted.
             image: vpn
         },
         {
             title: "Setting up Cloudflared on TrueNAS scale for global access",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://www.youtube.com/watch?v=LZNio-ghzBg",
+            source: "https://www.youtube.com/watch?v=LZNio-ghzBg",
             image: cloud
         },
         {
             title: "useMemo React Hook: With easy to understand example",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://www.youtube.com/watch?v=izGScvZIuI0",
+            source: "https://www.youtube.com/watch?v=izGScvZIuI0",
             image: useMemo
         }
     ]
