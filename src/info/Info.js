@@ -97,12 +97,12 @@ export const info = {
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
+            label: 'technologies',
+            emoji: '🕹️'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'working out',
+            emoji: '🏋️'
         },
         {
             label: 'movies',
